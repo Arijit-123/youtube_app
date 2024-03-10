@@ -6,7 +6,7 @@ import { Outlet } from 'react-router-dom'
 function Body() {
   return (
     <div className='flex'>
-     <div className='g-5 z-10  shadow-lg w-52'>
+     <div className=''>
      <Sidebar/>
      </div>
     <div>
